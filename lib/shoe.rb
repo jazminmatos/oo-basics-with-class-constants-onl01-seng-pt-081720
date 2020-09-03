@@ -8,7 +8,6 @@ class Shoe
     @brand = brand
     #BRANDS.each do |brand| 
       BRANDS << brand  
-    end
   end
 
   def cobble
